@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Aprendendo Java na DIO");
+        System.out.print("Aprendendo Java na DIO");
     }
 }
